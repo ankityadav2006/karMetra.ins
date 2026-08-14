@@ -1,0 +1,10 @@
+{
+  "name": "KarMetra",
+  "description": "Modern Indian hiring marketplace connecting job seekers, employers, and recruiters with HireMatch AI scoring, QuickHire, nearby jobs, and anti-fraud verification.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
